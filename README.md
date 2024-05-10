@@ -28,9 +28,20 @@ Once the advisor creates the profile, they can easily access it through the prof
 
 Additionally, the ability for advisors to monitor the progress of appointments for the current day provides valuable feedback on timelines and helps identify any delays or issues that may arise. This real-time visibility into appointment status allows advisors to proactively address any concerns and maintain efficient workflow management.
 
+<img width="1512" alt="Screenshot 2024-05-09 at 9 48 13 PM" src="https://github.com/cristianmdz868/Capstone/assets/149980672/51c3d6b8-5ff0-4dd9-90b3-9a132e9385be">
+ 
+
+Firstly, the dashboard provides a comprehensive overview of appointments scheduled for the current day, ensuring technicians have a clear understanding of their tasks and schedule.
+
+Secondly, a progress bar is integrated into the dashboard, accompanied by color-coded buttons representing different task statuses. This visual representation allows technicians to track their progress effortlessly and identify task statuses quickly, enhancing efficiency.
+
+Additionally, the dashboard includes a delay notification option. This feature notifies technicians when progress on a task has been halted, ensuring they are promptly informed about any disruptions in their workflow and enabling them to take necessary actions.
+
+Moreover, the dashboard displays upcoming tasks and appointments, providing technicians with insight into their workload beyond the current day. This foresight helps them prepare, prioritize tasks, and maintain efficient task management practices.
+
 Summary:
  
- Building a concept website for learning backend development and database management serves multiple purposes. Firstly, it provides a hands-on learning experience by allowing you to apply theoretical knowledge to real-world scenarios. This practical approach is invaluable in understanding concepts like server-side programming, databases, and data manipulation.
+Building a concept website for learning backend development and database management serves multiple purposes. Firstly, it provides a hands-on learning experience by allowing you to apply theoretical knowledge to real-world scenarios. This practical approach is invaluable in understanding concepts like server-side programming, databases, and data manipulation.
 
 Secondly, creating a concept website helps in portfolio development. It gives you a tangible project to showcase your skills, making it a valuable addition when seeking job opportunities or freelance work in web development. Having a specific project also helps in setting focused learning goals, such as implementing user authentication, optimizing database queries, or integrating APIs.
 
