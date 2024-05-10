@@ -1,3 +1,5 @@
+
+![Capstone_poster](https://github.com/cristianmdz868/Capstone/assets/149980672/53d177c2-e8bf-4328-a6e3-65b7c1198774)
  Building a concept website for learning backend development and database management serves multiple purposes. Firstly, it provides a hands-on learning experience by allowing you to apply theoretical knowledge to real-world scenarios. This practical approach is invaluable in understanding concepts like server-side programming, databases, and data manipulation.
 
 Secondly, creating a concept website helps in portfolio development. It gives you a tangible project to showcase your skills, making it a valuable addition when seeking job opportunities or freelance work in web development. Having a specific project also helps in setting focused learning goals, such as implementing user authentication, optimizing database queries, or integrating APIs.
