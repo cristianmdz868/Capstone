@@ -1,0 +1,755 @@
+[15-Mar-2024 04:04:10 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/customer_login.php:9
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/customer_login.php(9): mysqli_prepare(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/customer_login.php on line 9
+[15-Mar-2024 04:55:49 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/customer_login.php:9
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/customer_login.php(9): mysqli_prepare(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/customer_login.php on line 9
+[15-Mar-2024 04:59:43 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/customer_login.php:9
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/customer_login.php(9): mysqli_prepare(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/customer_login.php on line 9
+[15-Mar-2024 05:01:50 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/customer_login.php:16
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/customer_login.php(16): mysqli_prepare(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/customer_login.php on line 16
+[15-Mar-2024 05:01:54 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/customer_login.php:16
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/customer_login.php(16): mysqli_prepare(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/customer_login.php on line 16
+[15-Mar-2024 05:04:01 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/customer_login.php:20
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/customer_login.php(20): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/customer_login.php on line 20
+[15-Mar-2024 05:04:11 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/customer_login.php:20
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/customer_login.php(20): mysqli_query(Object(mysqli), 'SELECT * FROM c...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/customer_login.php on line 20
+[21-Mar-2024 04:54:45 UTC] PHP Warning:  Undefined array key "username" in /home/cristia1/public_html/Capstone/technician_login.php on line 5
+[21-Mar-2024 04:54:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/technician_login.php:5) in /home/cristia1/public_html/Capstone/technician_login.php on line 22
+[21-Mar-2024 04:56:10 UTC] PHP Warning:  Undefined array key "username" in /home/cristia1/public_html/Capstone/technician_login.php on line 5
+[21-Mar-2024 04:56:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/technician_login.php:5) in /home/cristia1/public_html/Capstone/technician_login.php on line 22
+[21-Mar-2024 04:56:14 UTC] PHP Warning:  Undefined array key "username" in /home/cristia1/public_html/Capstone/technician_login.php on line 5
+[21-Mar-2024 04:56:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/technician_login.php:5) in /home/cristia1/public_html/Capstone/technician_login.php on line 22
+[21-Mar-2024 04:57:49 UTC] PHP Warning:  Undefined array key "username" in /home/cristia1/public_html/Capstone/technician_login.php on line 5
+[21-Mar-2024 04:57:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/technician_login.php:5) in /home/cristia1/public_html/Capstone/technician_login.php on line 22
+[21-Mar-2024 04:57:53 UTC] PHP Warning:  Undefined array key "username" in /home/cristia1/public_html/Capstone/technician_login.php on line 5
+[21-Mar-2024 04:57:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/technician_login.php:5) in /home/cristia1/public_html/Capstone/technician_login.php on line 22
+[22-Mar-2024 06:19:46 UTC] PHP Warning:  Undefined array key "first_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 7
+[22-Mar-2024 06:19:46 UTC] PHP Warning:  Undefined array key "last_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 8
+[22-Mar-2024 06:19:48 UTC] PHP Warning:  Undefined array key "first_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 7
+[22-Mar-2024 06:19:48 UTC] PHP Warning:  Undefined array key "last_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 8
+[22-Mar-2024 06:20:50 UTC] PHP Warning:  Undefined array key "first_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 7
+[22-Mar-2024 06:20:50 UTC] PHP Warning:  Undefined array key "last_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 8
+[22-Mar-2024 06:20:51 UTC] PHP Warning:  Undefined array key "first_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 7
+[22-Mar-2024 06:20:51 UTC] PHP Warning:  Undefined array key "last_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 8
+[22-Mar-2024 06:20:51 UTC] PHP Warning:  Undefined array key "first_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 7
+[22-Mar-2024 06:20:51 UTC] PHP Warning:  Undefined array key "last_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 8
+[22-Mar-2024 06:21:13 UTC] PHP Warning:  Undefined array key "first_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 7
+[22-Mar-2024 06:21:13 UTC] PHP Warning:  Undefined array key "last_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 8
+[22-Mar-2024 06:21:14 UTC] PHP Warning:  Undefined array key "first_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 7
+[22-Mar-2024 06:21:14 UTC] PHP Warning:  Undefined array key "last_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 8
+[22-Mar-2024 06:22:01 UTC] PHP Warning:  Undefined array key "first_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 7
+[22-Mar-2024 06:22:01 UTC] PHP Warning:  Undefined array key "last_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 8
+[22-Mar-2024 06:22:02 UTC] PHP Warning:  Undefined array key "first_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 7
+[22-Mar-2024 06:22:02 UTC] PHP Warning:  Undefined array key "last_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 8
+[22-Mar-2024 06:22:51 UTC] PHP Warning:  Undefined array key "first_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 7
+[22-Mar-2024 06:22:51 UTC] PHP Warning:  Undefined array key "last_name" in /home/cristia1/public_html/Capstone/home_customer.php on line 8
+[23-Mar-2024 05:17:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/add_car.php:45
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/add_car.php(45): mysqli_stmt_bind_param(false, 'ssssi', '1HGB31J XMN1091...', 'coup', 'red', '2012', 3)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/add_car.php on line 45
+[23-Mar-2024 05:20:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/add_car.php:24
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/add_car.php(24): mysqli_stmt_bind_param(false, 'ssssi', '1HGB31J XMN1091...', 'coup', 'red', '2012', 3)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/add_car.php on line 24
+[23-Mar-2024 05:23:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/add_car.php:24
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/add_car.php(24): mysqli_stmt_bind_param(false, 'ssssi', '1HGB31J XMN1091...', 'coup', 'red', '2012', 3)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/add_car.php on line 24
+[23-Mar-2024 06:28:00 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 61
+[23-Mar-2024 06:28:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 61
+[23-Mar-2024 06:28:00 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 61
+[23-Mar-2024 06:28:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 61
+[23-Mar-2024 06:28:00 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 70
+[23-Mar-2024 06:28:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 70
+[23-Mar-2024 06:28:00 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cristia1/public_html/Capstone/home_customer.php on line 70
+[23-Mar-2024 06:28:03 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 61
+[23-Mar-2024 06:28:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 61
+[23-Mar-2024 06:28:03 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 61
+[23-Mar-2024 06:28:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 61
+[23-Mar-2024 06:28:03 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 70
+[23-Mar-2024 06:28:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 70
+[23-Mar-2024 06:28:03 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cristia1/public_html/Capstone/home_customer.php on line 70
+[25-Mar-2024 05:29:58 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 103
+[25-Mar-2024 05:29:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 103
+[25-Mar-2024 05:29:58 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 103
+[25-Mar-2024 05:29:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 103
+[25-Mar-2024 05:29:58 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 112
+[25-Mar-2024 05:29:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 112
+[25-Mar-2024 05:29:58 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cristia1/public_html/Capstone/home_customer.php on line 112
+[25-Mar-2024 17:11:50 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/advisor_login.php:11
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_login.php(11): mysqli_stmt_bind_param(false, 'ss', 'advisor1@email....', 'advisor1@email....')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_login.php on line 11
+[25-Mar-2024 17:13:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/advisor_login.php:11
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_login.php(11): mysqli_stmt_bind_param(false, 'ss', 'advisor1@email....', 'advisor1@email....')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_login.php on line 11
+[25-Mar-2024 17:13:28 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/advisor_login.php:11
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_login.php(11): mysqli_stmt_bind_param(false, 'ss', 'advisor1@email....', 'advisor1@email....')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_login.php on line 11
+[25-Mar-2024 17:14:03 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/advisor_login.php:11
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_login.php(11): mysqli_stmt_bind_param(false, 'ss', 'advisor1@email....', 'advisor1@email....')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_login.php on line 11
+[25-Mar-2024 17:14:06 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/advisor_login.php:11
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_login.php(11): mysqli_stmt_bind_param(false, 'ss', 'advisor1@email....', 'advisor1@email....')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_login.php on line 11
+[25-Mar-2024 17:15:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/advisor_login.php:11
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_login.php(11): mysqli_stmt_bind_param(false, 'ss', 'advisor1@email....', 'advisor1@email....')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_login.php on line 11
+[25-Mar-2024 17:15:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/advisor_login.php:11
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_login.php(11): mysqli_stmt_bind_param(false, 'ss', 'advisor1@email....', 'advisor1@email....')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_login.php on line 11
+[25-Mar-2024 17:18:16 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/advisor_login.php:11
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_login.php(11): mysqli_stmt_bind_param(false, 'ss', 'advisor1@email....', 'advisor1@email....')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_login.php on line 11
+[25-Mar-2024 17:19:30 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/advisor_login.php:11
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_login.php(11): mysqli_stmt_bind_param(false, 'ss', 'advisor1@email....', 'advisor1@email....')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_login.php on line 11
+[25-Mar-2024 17:21:05 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/advisor_login.php:11
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_login.php(11): mysqli_stmt_bind_param(false, 'ss', 'advisor1@email....', 'advisor1@email....')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_login.php on line 11
+[25-Mar-2024 17:21:10 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/advisor_login.php:11
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_login.php(11): mysqli_stmt_bind_param(false, 'ss', 'advisor1@email....', 'advisor1@email....')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_login.php on line 11
+[25-Mar-2024 17:21:33 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/advisor_login.php:11
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_login.php(11): mysqli_stmt_bind_param(false, 'ss', 'advisor1@email....', 'advisor1@email....')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_login.php on line 11
+[25-Mar-2024 17:53:58 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/advisor_login.php:11
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_login.php(11): mysqli_stmt_bind_param(false, 'ss', 'advisor1@email....', 'advisor1@email....')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_login.php on line 11
+[25-Mar-2024 17:55:48 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/advisor_login.php:11
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_login.php(11): mysqli_stmt_bind_param(false, 'ss', 'advisor1@email....', 'advisor1@email....')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_login.php on line 11
+[25-Mar-2024 17:56:05 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/advisor_login.php:11
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_login.php(11): mysqli_stmt_bind_param(false, 'ss', 'advisor1@email....', 'hashed_password...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_login.php on line 11
+[27-Mar-2024 06:00:54 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/home_customer.php:52
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/home_customer.php(52): mysqli_stmt_bind_param(false, 'i', 3)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/home_customer.php on line 52
+[27-Mar-2024 06:03:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/home_customer.php:24
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/home_customer.php(24): mysqli_stmt_bind_param(false, 'i', 3)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/home_customer.php on line 24
+[27-Mar-2024 06:03:41 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/home_customer.php:24
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/home_customer.php(24): mysqli_stmt_bind_param(false, 'i', 3)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/home_customer.php on line 24
+[27-Mar-2024 06:03:42 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/home_customer.php:24
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/home_customer.php(24): mysqli_stmt_bind_param(false, 'i', 3)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/home_customer.php on line 24
+[27-Mar-2024 06:06:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/home_customer.php:52
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/home_customer.php(52): mysqli_stmt_bind_param(false, 'i', 3)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/home_customer.php on line 52
+[27-Mar-2024 06:06:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/home_customer.php:52
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/home_customer.php(52): mysqli_stmt_bind_param(false, 'i', 3)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/home_customer.php on line 52
+[27-Mar-2024 06:07:18 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/home_customer.php:54
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/home_customer.php(54): mysqli_stmt_bind_param(false, 'i', 3)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/home_customer.php on line 54
+[27-Mar-2024 06:07:19 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/home_customer.php:54
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/home_customer.php(54): mysqli_stmt_bind_param(false, 'i', 3)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/home_customer.php on line 54
+[27-Mar-2024 06:35:37 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 82
+[27-Mar-2024 06:35:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 82
+[27-Mar-2024 06:35:37 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 82
+[27-Mar-2024 06:35:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 82
+[27-Mar-2024 06:35:37 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 91
+[27-Mar-2024 06:35:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 91
+[27-Mar-2024 06:35:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cristia1/public_html/Capstone/home_customer.php on line 91
+[27-Mar-2024 06:35:37 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 102
+[27-Mar-2024 06:35:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 102
+[27-Mar-2024 06:35:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cristia1/public_html/Capstone/home_customer.php on line 102
+[27-Mar-2024 07:05:05 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/cristia1/public_html/Capstone/cancel_appointment.php on line 121
+[27-Mar-2024 07:07:27 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/cristia1/public_html/Capstone/cancel_appointment.php on line 121
+[27-Mar-2024 07:07:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/cristia1/public_html/Capstone/home_customer.php on line 136
+[27-Mar-2024 07:08:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/cristia1/public_html/Capstone/home_customer.php on line 136
+[27-Mar-2024 07:08:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/cristia1/public_html/Capstone/home_customer.php on line 136
+[27-Mar-2024 07:10:58 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/cristia1/public_html/Capstone/cancel_appointment.php on line 121
+[27-Mar-2024 07:13:23 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/cristia1/public_html/Capstone/cancel_appointment.php on line 121
+[27-Mar-2024 07:13:35 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/cristia1/public_html/Capstone/cancel_appointment.php on line 121
+[27-Mar-2024 07:16:04 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/cristia1/public_html/Capstone/cancel_appointment.php on line 121
+[27-Mar-2024 07:16:59 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/cristia1/public_html/Capstone/cancel_appointment.php on line 121
+[27-Mar-2024 07:17:03 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/cristia1/public_html/Capstone/cancel_appointment.php on line 121
+[27-Mar-2024 07:23:57 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/cristia1/public_html/Capstone/cancel_appointment.php on line 121
+[27-Mar-2024 07:24:02 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home/cristia1/public_html/Capstone/cancel_appointment.php on line 121
+[28-Mar-2024 03:05:21 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 15
+[28-Mar-2024 03:05:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 15
+[28-Mar-2024 03:05:21 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 15
+[28-Mar-2024 03:05:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 15
+[28-Mar-2024 03:05:21 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 24
+[28-Mar-2024 03:05:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 24
+[28-Mar-2024 03:05:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cristia1/public_html/Capstone/home_customer.php on line 24
+[28-Mar-2024 03:05:21 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 35
+[28-Mar-2024 03:05:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 35
+[28-Mar-2024 03:05:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cristia1/public_html/Capstone/home_customer.php on line 35
+[28-Mar-2024 03:15:55 UTC] PHP Warning:  Undefined variable $appointments in /home/cristia1/public_html/Capstone/edit_appointment.php on line 22
+[28-Mar-2024 03:15:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cristia1/public_html/Capstone/edit_appointment.php on line 22
+[28-Mar-2024 03:17:48 UTC] PHP Warning:  Undefined array key "appointment_time" in /home/cristia1/public_html/Capstone/edit_appointment.php on line 62
+[28-Mar-2024 03:17:48 UTC] PHP Warning:  Undefined array key "appointment_time" in /home/cristia1/public_html/Capstone/edit_appointment.php on line 62
+[28-Mar-2024 03:17:48 UTC] PHP Warning:  Undefined array key "appointment_time" in /home/cristia1/public_html/Capstone/edit_appointment.php on line 62
+[28-Mar-2024 03:24:46 UTC] PHP Warning:  Undefined array key "appointment_time" in /home/cristia1/public_html/Capstone/edit_appointment.php on line 62
+[28-Mar-2024 03:24:46 UTC] PHP Warning:  Undefined array key "appointment_time" in /home/cristia1/public_html/Capstone/edit_appointment.php on line 62
+[28-Mar-2024 03:24:46 UTC] PHP Warning:  Undefined array key "appointment_time" in /home/cristia1/public_html/Capstone/edit_appointment.php on line 62
+[28-Mar-2024 04:16:27 UTC] PHP Warning:  Undefined variable $appointments in /home/cristia1/public_html/Capstone/cancel_appointment.php on line 22
+[28-Mar-2024 04:16:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cristia1/public_html/Capstone/cancel_appointment.php on line 22
+[28-Mar-2024 04:18:52 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/edit_appointment.php on line 20
+[28-Mar-2024 04:18:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/edit_appointment.php on line 20
+[28-Mar-2024 04:18:52 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/edit_appointment.php on line 20
+[28-Mar-2024 04:18:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/edit_appointment.php on line 20
+[28-Mar-2024 04:18:52 UTC] PHP Warning:  Undefined variable $appointments in /home/cristia1/public_html/Capstone/edit_appointment.php on line 32
+[28-Mar-2024 04:18:52 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cristia1/public_html/Capstone/edit_appointment.php on line 32
+[28-Mar-2024 04:19:06 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/edit_appointment.php on line 20
+[28-Mar-2024 04:19:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/edit_appointment.php on line 20
+[28-Mar-2024 04:19:06 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/edit_appointment.php on line 20
+[28-Mar-2024 04:19:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/edit_appointment.php on line 20
+[28-Mar-2024 04:19:06 UTC] PHP Warning:  Undefined variable $appointments in /home/cristia1/public_html/Capstone/edit_appointment.php on line 32
+[28-Mar-2024 04:19:06 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cristia1/public_html/Capstone/edit_appointment.php on line 32
+[28-Mar-2024 04:19:30 UTC] PHP Warning:  Undefined variable $appointments in /home/cristia1/public_html/Capstone/edit_appointment.php on line 31
+[28-Mar-2024 04:19:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cristia1/public_html/Capstone/edit_appointment.php on line 31
+[28-Mar-2024 04:20:55 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/edit_appointment.php:20
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/edit_appointment.php(20): mysqli_stmt_bind_param(false, 'i', 3)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/edit_appointment.php on line 20
+[28-Mar-2024 04:26:37 UTC] PHP Warning:  Undefined variable $appointments in /home/cristia1/public_html/Capstone/cancel_appointment.php on line 22
+[28-Mar-2024 04:26:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cristia1/public_html/Capstone/cancel_appointment.php on line 22
+[28-Mar-2024 04:34:50 UTC] PHP Warning:  Undefined variable $first_name in /home/cristia1/public_html/Capstone/edit_appointment.php on line 49
+[28-Mar-2024 04:34:50 UTC] PHP Warning:  Undefined variable $last_name in /home/cristia1/public_html/Capstone/edit_appointment.php on line 49
+[28-Mar-2024 04:36:04 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/edit_appointment.php:12
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/edit_appointment.php(12): mysqli_stmt_bind_param(false, 'i', 3)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/edit_appointment.php on line 12
+[28-Mar-2024 04:37:41 UTC] PHP Warning:  Undefined variable $first_name in /home/cristia1/public_html/Capstone/edit_appointment.php on line 93
+[28-Mar-2024 04:37:41 UTC] PHP Warning:  Undefined variable $last_name in /home/cristia1/public_html/Capstone/edit_appointment.php on line 93
+[28-Mar-2024 04:38:29 UTC] PHP Warning:  Undefined variable $first_name in /home/cristia1/public_html/Capstone/edit_appointment.php on line 93
+[28-Mar-2024 04:38:29 UTC] PHP Warning:  Undefined variable $last_name in /home/cristia1/public_html/Capstone/edit_appointment.php on line 93
+[28-Mar-2024 04:42:25 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/edit_appointment.php:20
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/edit_appointment.php(20): mysqli_stmt_bind_param(false, 'i', 3)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/edit_appointment.php on line 20
+[28-Mar-2024 04:56:20 UTC] PHP Warning:  Undefined array key "appointment_id" in /home/cristia1/public_html/Capstone/reschedule_form.php on line 13
+[28-Mar-2024 04:57:45 UTC] PHP Warning:  Undefined array key "appointment_id" in /home/cristia1/public_html/Capstone/reschedule_form.php on line 13
+[28-Mar-2024 04:58:57 UTC] PHP Warning:  Undefined array key "appointment_id" in /home/cristia1/public_html/Capstone/reschedule_form.php on line 13
+[28-Mar-2024 06:09:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ession_name() in /home/cristia1/public_html/Capstone/home_customer.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cristia1/public_html/Capstone/home_customer.php on line 2
+[28-Mar-2024 06:09:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ession_name() in /home/cristia1/public_html/Capstone/home_customer.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cristia1/public_html/Capstone/home_customer.php on line 2
+[28-Mar-2024 06:45:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "user_session" in /home/cristia1/public_html/Capstone/customer_login.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cristia1/public_html/Capstone/customer_login.php on line 3
+[28-Mar-2024 06:49:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "advisor_session" in /home/cristia1/public_html/Capstone/advisor_dashboard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 2
+[28-Mar-2024 21:59:26 UTC] PHP Warning:  Undefined array key "user_id" in /home/cristia1/public_html/Capstone/add_car.php on line 21
+[28-Mar-2024 21:59:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/add_car.php:21) in /home/cristia1/public_html/Capstone/add_car.php on line 38
+[28-Mar-2024 22:01:55 UTC] PHP Warning:  Undefined array key "user_id" in /home/cristia1/public_html/Capstone/add_car.php on line 21
+[28-Mar-2024 22:02:09 UTC] PHP Warning:  Undefined array key "user_id" in /home/cristia1/public_html/Capstone/add_car.php on line 21
+[28-Mar-2024 22:02:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/add_car.php:21) in /home/cristia1/public_html/Capstone/add_car.php on line 38
+[28-Mar-2024 22:03:08 UTC] PHP Warning:  Undefined array key "user_id" in /home/cristia1/public_html/Capstone/add_car.php on line 21
+[28-Mar-2024 22:03:20 UTC] PHP Warning:  Undefined array key "user_id" in /home/cristia1/public_html/Capstone/add_car.php on line 21
+[28-Mar-2024 22:03:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/add_car.php:21) in /home/cristia1/public_html/Capstone/add_car.php on line 38
+[28-Mar-2024 22:05:21 UTC] PHP Warning:  Undefined array key "user_id" in /home/cristia1/public_html/Capstone/add_car.php on line 22
+[01-Apr-2024 05:10:54 UTC] PHP Warning:  Undefined variable $first_name in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 83
+[01-Apr-2024 05:10:54 UTC] PHP Warning:  Undefined variable $last_name in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 83
+[01-Apr-2024 05:40:27 UTC] PHP Warning:  session_name(): Session name cannot be changed when a session is active in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 174
+[01-Apr-2024 06:14:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/cristia1/public_html/Capstone/advisor_assignment_form.php on line 13
+[01-Apr-2024 06:15:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/cristia1/public_html/Capstone/advisor_assignment_form.php on line 13
+[01-Apr-2024 06:16:57 UTC] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home/cristia1/public_html/Capstone/advisor_assignment_form.php on line 13
+[01-Apr-2024 06:16:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/cristia1/public_html/Capstone/advisor_assignment_form.php on line 14
+[01-Apr-2024 06:17:37 UTC] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home/cristia1/public_html/Capstone/advisor_assignment_form.php on line 13
+[01-Apr-2024 06:17:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/cristia1/public_html/Capstone/advisor_assignment_form.php on line 14
+[01-Apr-2024 06:31:55 UTC] PHP Warning:  Undefined variable $appointment_id in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 60
+[05-Apr-2024 05:43:15 UTC] PHP Warning:  Undefined variable $appointment_id in /home/cristia1/public_html/Capstone/assign_technician_form.php on line 13
+[05-Apr-2024 05:48:49 UTC] PHP Warning:  Undefined variable $appointment_id in /home/cristia1/public_html/Capstone/assign_technician_form.php on line 13
+[05-Apr-2024 05:49:43 UTC] PHP Warning:  Undefined variable $appointment_id in /home/cristia1/public_html/Capstone/assign_technician_form.php on line 13
+[05-Apr-2024 05:49:44 UTC] PHP Warning:  session_name(): Session name cannot be changed when a session is active in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 206
+[05-Apr-2024 05:51:42 UTC] PHP Warning:  session_name(): Session name cannot be changed when a session is active in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 206
+[05-Apr-2024 05:53:31 UTC] PHP Warning:  Undefined variable $appointment_id in /home/cristia1/public_html/Capstone/assign_technician_form.php on line 13
+[05-Apr-2024 05:55:07 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/make_appointment.php:40
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/make_appointment.php(40): mysqli_stmt_close(false)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/make_appointment.php on line 40
+[05-Apr-2024 05:59:41 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/make_appointment.php:40
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/make_appointment.php(40): mysqli_stmt_close(false)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/make_appointment.php on line 40
+[05-Apr-2024 06:01:13 UTC] PHP Warning:  Undefined array key "appointment_id" in /home/cristia1/public_html/Capstone/assign_technician_form.php on line 46
+[05-Apr-2024 06:02:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/make_appointment.php:40
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/make_appointment.php(40): mysqli_stmt_close(false)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/make_appointment.php on line 40
+[05-Apr-2024 06:03:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/make_appointment.php:40
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/make_appointment.php(40): mysqli_stmt_close(false)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/make_appointment.php on line 40
+[05-Apr-2024 06:03:29 UTC] PHP Warning:  Undefined array key "appointment_id" in /home/cristia1/public_html/Capstone/assign_technician_form.php on line 46
+[05-Apr-2024 06:09:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_close(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/make_appointment.php:40
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/make_appointment.php(40): mysqli_stmt_close(false)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/make_appointment.php on line 40
+[05-Apr-2024 06:09:59 UTC] PHP Warning:  Undefined array key "appointment_id" in /home/cristia1/public_html/Capstone/assign_technician_form.php on line 46
+[05-Apr-2024 06:30:36 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_dashboard.php:207
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_dashboard.php(207): mysqli_prepare(Object(mysqli), 'SELECT first_na...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 207
+[05-Apr-2024 06:32:34 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_dashboard.php:207
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_dashboard.php(207): mysqli_prepare(Object(mysqli), 'SELECT first_na...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 207
+[05-Apr-2024 06:32:35 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_dashboard.php:207
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_dashboard.php(207): mysqli_prepare(Object(mysqli), 'SELECT first_na...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 207
+[05-Apr-2024 06:33:33 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_dashboard.php:215
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_dashboard.php(215): mysqli_prepare(Object(mysqli), 'SELECT first_na...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 215
+[05-Apr-2024 06:34:14 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_dashboard.php:216
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_dashboard.php(216): mysqli_prepare(Object(mysqli), 'SELECT first_na...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 216
+[05-Apr-2024 06:34:15 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_dashboard.php:216
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_dashboard.php(216): mysqli_prepare(Object(mysqli), 'SELECT first_na...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 216
+[05-Apr-2024 06:34:16 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_dashboard.php:216
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_dashboard.php(216): mysqli_prepare(Object(mysqli), 'SELECT first_na...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 216
+[05-Apr-2024 06:34:16 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_dashboard.php:216
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_dashboard.php(216): mysqli_prepare(Object(mysqli), 'SELECT first_na...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 216
+[05-Apr-2024 06:34:54 UTC] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 3
+[05-Apr-2024 06:34:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 4
+[05-Apr-2024 06:34:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/advisor_dashboard.php:1) in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 9
+[05-Apr-2024 06:35:42 UTC] PHP Warning:  Undefined variable $servername in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 23
+[05-Apr-2024 06:35:42 UTC] PHP Warning:  Undefined variable $username in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 23
+[05-Apr-2024 06:35:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 23
+[05-Apr-2024 21:31:43 UTC] PHP Warning:  Undefined array key "client_first_name" in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 192
+[05-Apr-2024 21:31:43 UTC] PHP Warning:  Undefined array key "client_last_name" in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 192
+[05-Apr-2024 21:31:43 UTC] PHP Warning:  Undefined array key "client_first_name" in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 192
+[05-Apr-2024 21:31:43 UTC] PHP Warning:  Undefined array key "client_last_name" in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 192
+[05-Apr-2024 21:31:43 UTC] PHP Warning:  Undefined array key "client_first_name" in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 192
+[05-Apr-2024 21:31:43 UTC] PHP Warning:  Undefined array key "client_last_name" in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 192
+[05-Apr-2024 21:31:43 UTC] PHP Warning:  Undefined array key "client_first_name" in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 192
+[05-Apr-2024 21:31:43 UTC] PHP Warning:  Undefined array key "client_last_name" in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 192
+[05-Apr-2024 21:32:27 UTC] PHP Warning:  Undefined array key "first_name" in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 192
+[05-Apr-2024 21:32:27 UTC] PHP Warning:  Undefined array key "last_name" in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 192
+[05-Apr-2024 21:32:27 UTC] PHP Warning:  Undefined array key "first_name" in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 192
+[05-Apr-2024 21:32:27 UTC] PHP Warning:  Undefined array key "last_name" in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 192
+[05-Apr-2024 21:32:27 UTC] PHP Warning:  Undefined array key "first_name" in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 192
+[05-Apr-2024 21:32:27 UTC] PHP Warning:  Undefined array key "last_name" in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 192
+[05-Apr-2024 21:32:27 UTC] PHP Warning:  Undefined array key "first_name" in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 192
+[05-Apr-2024 21:32:27 UTC] PHP Warning:  Undefined array key "last_name" in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 192
+[05-Apr-2024 21:34:24 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 229
+[05-Apr-2024 21:42:20 UTC] PHP Parse error:  syntax error, unexpected identifier "Technichian", expecting "," or ";" in /home/cristia1/public_html/Capstone/advisor_dashboard.php on line 214
+[05-Apr-2024 21:57:44 UTC] PHP Warning:  Undefined array key "user_id" in /home/cristia1/public_html/Capstone/make_appointment_action.php on line 14
+[05-Apr-2024 21:57:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/make_appointment_action.php:14) in /home/cristia1/public_html/Capstone/make_appointment_action.php on line 27
+[06-Apr-2024 03:22:21 UTC] PHP Warning:  include(technician_selection_dropdown.php): Failed to open stream: No such file or directory in /home/cristia1/public_html/Capstone/advisor_create_appointment_form.php on line 18
+[06-Apr-2024 03:22:21 UTC] PHP Warning:  include(): Failed opening 'technician_selection_dropdown.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/cristia1/public_html/Capstone/advisor_create_appointment_form.php on line 18
+[06-Apr-2024 03:23:06 UTC] PHP Warning:  include(technician_selection_dropdown.php): Failed to open stream: No such file or directory in /home/cristia1/public_html/Capstone/advisor_create_appointment_form.php on line 18
+[06-Apr-2024 03:23:06 UTC] PHP Warning:  include(): Failed opening 'technician_selection_dropdown.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/cristia1/public_html/Capstone/advisor_create_appointment_form.php on line 18
+[06-Apr-2024 03:24:36 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:26:17 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:26:44 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_create_appointment_form.php:41
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_create_appointment_form.php(41): mysqli_query(Object(mysqli), 'SELECT id, firs...')
+#1 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(37): include('/home/cristia1/...')
+#2 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_create_appointment_form.php on line 41
+[06-Apr-2024 03:30:29 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:31:05 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:31:49 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:32:03 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:32:46 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:33:25 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:33:39 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:33:49 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:34:20 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:35:18 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:39:20 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:40:52 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:40:58 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:42:01 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:44:01 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:46:12 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:46:32 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 03:47:40 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:52
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(52): mysqli_ping(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 52
+[06-Apr-2024 03:48:43 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:52
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(52): mysqli_ping(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 52
+[06-Apr-2024 03:49:22 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:52
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(52): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 52
+[06-Apr-2024 03:49:52 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:59
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(59): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 59
+[06-Apr-2024 03:50:24 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:52
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(52): mysqli_ping(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 52
+[06-Apr-2024 03:51:11 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:52
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(52): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 52
+[06-Apr-2024 03:55:55 UTC] PHP Warning:  Undefined array key "appointment_date" in /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php on line 18
+[06-Apr-2024 03:55:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php:18) in /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php on line 32
+[06-Apr-2024 04:00:38 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/advisor_create_appointment_form.php on line 41
+[06-Apr-2024 04:00:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/advisor_create_appointment_form.php on line 41
+[06-Apr-2024 04:00:38 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/advisor_create_appointment_form.php on line 41
+[06-Apr-2024 04:00:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/advisor_create_appointment_form.php on line 41
+[06-Apr-2024 04:01:31 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 04:04:33 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php:50
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php(50): mysqli_close(Object(mysqli))
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 50
+[06-Apr-2024 04:21:42 UTC] PHP Warning:  include(advisor_create_appointment_form.php): Failed to open stream: No such file or directory in /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php on line 86
+[06-Apr-2024 04:21:42 UTC] PHP Warning:  include(): Failed opening 'advisor_create_appointment_form.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php on line 86
+[06-Apr-2024 04:27:22 UTC] PHP Parse error:  syntax error, unexpected identifier "value", expecting "," or ";" in /home/cristia1/public_html/Capstone/advisor_search_and_create_appointment_action.php on line 60
+[06-Apr-2024 04:32:41 UTC] PHP Warning:  include(advisor_create_appointment_form.php): Failed to open stream: No such file or directory in /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php on line 86
+[06-Apr-2024 04:32:41 UTC] PHP Warning:  include(): Failed opening 'advisor_create_appointment_form.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php on line 86
+[06-Apr-2024 04:33:15 UTC] PHP Parse error:  syntax error, unexpected identifier "value", expecting "," or ";" in /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php on line 60
+[06-Apr-2024 04:33:27 UTC] PHP Parse error:  syntax error, unexpected identifier "value", expecting "," or ";" in /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php on line 60
+[06-Apr-2024 04:35:17 UTC] PHP Parse error:  Unclosed '{' on line 112 in /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php on line 151
+[06-Apr-2024 05:28:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php:32) in /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php on line 34
+[06-Apr-2024 05:43:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php:32) in /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php on line 34
+[07-Apr-2024 23:21:06 UTC] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php on line 2
+[07-Apr-2024 23:21:06 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php on line 3
+[07-Apr-2024 23:29:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php:32) in /home/cristia1/public_html/Capstone/advisor_create_appointment_action.php on line 34
+[08-Apr-2024 00:16:29 UTC] PHP Warning:  Undefined array key "appointment_id" in /home/cristia1/public_html/Capstone/make_appointment_action.php on line 15
+[08-Apr-2024 00:16:29 UTC] PHP Warning:  Undefined array key "new_technician_id" in /home/cristia1/public_html/Capstone/make_appointment_action.php on line 16
+[08-Apr-2024 00:16:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/make_appointment_action.php:15) in /home/cristia1/public_html/Capstone/make_appointment_action.php on line 29
+[08-Apr-2024 00:22:09 UTC] PHP Warning:  Undefined array key "appointment_id" in /home/cristia1/public_html/Capstone/make_appointment_action.php on line 21
+[08-Apr-2024 00:22:09 UTC] PHP Warning:  Undefined array key "technician_id" in /home/cristia1/public_html/Capstone/make_appointment_action.php on line 22
+[08-Apr-2024 00:22:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/make_appointment_action.php:21) in /home/cristia1/public_html/Capstone/make_appointment_action.php on line 35
+[08-Apr-2024 00:24:11 UTC] PHP Warning:  Undefined array key "appointment_id" in /home/cristia1/public_html/Capstone/make_appointment_action.php on line 21
+[08-Apr-2024 00:24:11 UTC] PHP Warning:  Undefined array key "advisor_id" in /home/cristia1/public_html/Capstone/make_appointment_action.php on line 22
+[08-Apr-2024 00:24:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/make_appointment_action.php:21) in /home/cristia1/public_html/Capstone/make_appointment_action.php on line 35
+[08-Apr-2024 00:24:38 UTC] PHP Warning:  Undefined array key "client_id" in /home/cristia1/public_html/Capstone/make_appointment_action.php on line 15
+[08-Apr-2024 00:24:38 UTC] PHP Warning:  Undefined array key "advisor_id" in /home/cristia1/public_html/Capstone/make_appointment_action.php on line 17
+[08-Apr-2024 00:24:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/make_appointment_action.php:15) in /home/cristia1/public_html/Capstone/make_appointment_action.php on line 31
+[08-Apr-2024 04:48:54 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 57
+[08-Apr-2024 04:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 57
+[08-Apr-2024 04:48:54 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 57
+[08-Apr-2024 04:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 57
+[08-Apr-2024 04:48:54 UTC] PHP Warning:  Undefined variable $user_id in /home/cristia1/public_html/Capstone/home_customer.php on line 62
+[08-Apr-2024 04:48:54 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 70
+[08-Apr-2024 04:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 70
+[08-Apr-2024 04:48:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cristia1/public_html/Capstone/home_customer.php on line 70
+[08-Apr-2024 04:48:54 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 81
+[08-Apr-2024 04:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 81
+[08-Apr-2024 04:48:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cristia1/public_html/Capstone/home_customer.php on line 81
+[08-Apr-2024 04:50:08 UTC] PHP Warning:  Undefined variable $user_id in /home/cristia1/public_html/Capstone/home_customer.php on line 63
+[08-Apr-2024 04:51:15 UTC] PHP Warning:  Undefined variable $user_id in /home/cristia1/public_html/Capstone/home_customer.php on line 54
+[08-Apr-2024 04:52:16 UTC] PHP Warning:  Undefined variable $user_id in /home/cristia1/public_html/Capstone/home_customer.php on line 54
+[08-Apr-2024 04:52:17 UTC] PHP Parse error:  Unmatched '}' in /home/cristia1/public_html/Capstone/customer_make_appointment.php on line 35
+[08-Apr-2024 04:52:30 UTC] PHP Warning:  Undefined array key "client_id" in /home/cristia1/public_html/Capstone/customer_make_appointment.php on line 7
+[08-Apr-2024 04:53:07 UTC] PHP Warning:  Undefined array key "client_id" in /home/cristia1/public_html/Capstone/customer_make_appointment.php on line 7
+[08-Apr-2024 04:54:16 UTC] PHP Warning:  Undefined variable $user_id in /home/cristia1/public_html/Capstone/home_customer.php on line 54
+[08-Apr-2024 04:56:13 UTC] PHP Warning:  Undefined variable $user_id in /home/cristia1/public_html/Capstone/home_customer.php on line 63
+[08-Apr-2024 05:00:49 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/cristia1/public_html/Capstone/home_customer.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/cristia1/public_html/Capstone/home_customer.php on line 63
+[08-Apr-2024 05:01:09 UTC] PHP Warning:  Undefined variable $user_id in /home/cristia1/public_html/Capstone/home_customer.php on line 63
+[08-Apr-2024 05:01:10 UTC] PHP Warning:  Undefined variable $user_id in /home/cristia1/public_html/Capstone/home_customer.php on line 63
+[08-Apr-2024 05:01:57 UTC] PHP Warning:  Undefined variable $user_id in /home/cristia1/public_html/Capstone/home_customer.php on line 63
+[08-Apr-2024 05:01:57 UTC] PHP Warning:  Undefined variable $user_id in /home/cristia1/public_html/Capstone/home_customer.php on line 63
+[08-Apr-2024 05:03:07 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 58
+[08-Apr-2024 05:03:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 58
+[08-Apr-2024 05:03:07 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 58
+[08-Apr-2024 05:03:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 58
+[08-Apr-2024 05:03:07 UTC] PHP Warning:  Undefined variable $user_id in /home/cristia1/public_html/Capstone/home_customer.php on line 63
+[08-Apr-2024 05:03:07 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 71
+[08-Apr-2024 05:03:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 71
+[08-Apr-2024 05:03:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cristia1/public_html/Capstone/home_customer.php on line 71
+[08-Apr-2024 05:03:07 UTC] PHP Warning:  Undefined variable $_SESSION in /home/cristia1/public_html/Capstone/home_customer.php on line 82
+[08-Apr-2024 05:03:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/cristia1/public_html/Capstone/home_customer.php on line 82
+[08-Apr-2024 05:03:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/cristia1/public_html/Capstone/home_customer.php on line 82
+[08-Apr-2024 05:04:02 UTC] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home/cristia1/public_html/Capstone/home_customer.php on line 2
+[08-Apr-2024 05:04:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/cristia1/public_html/Capstone/home_customer.php on line 3
+[08-Apr-2024 05:04:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/home_customer.php:1) in /home/cristia1/public_html/Capstone/home_customer.php on line 62
+[08-Apr-2024 05:04:03 UTC] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home/cristia1/public_html/Capstone/home_customer.php on line 2
+[08-Apr-2024 05:04:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/cristia1/public_html/Capstone/home_customer.php on line 3
+[08-Apr-2024 05:04:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/home_customer.php:1) in /home/cristia1/public_html/Capstone/home_customer.php on line 62
+[08-Apr-2024 05:04:54 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/cristia1/public_html/Capstone/home_customer.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/cristia1/public_html/Capstone/home_customer.php on line 60
+[12-Apr-2024 06:44:54 UTC] PHP Warning:  session_name(): Session name cannot be changed after headers have already been sent in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 77
+[12-Apr-2024 06:44:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 78
+[12-Apr-2024 06:44:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cristia1/public_html/Capstone/technician_dashboard.php:1) in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 82
+[16-Apr-2024 05:40:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/home_customer.php:49
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/home_customer.php(49): mysqli_stmt_bind_param(false, 'i', 1)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/home_customer.php on line 49
+[16-Apr-2024 05:40:41 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/home_customer.php:49
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/home_customer.php(49): mysqli_stmt_bind_param(false, 'i', 1)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/home_customer.php on line 49
+[16-Apr-2024 05:40:50 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/home_customer.php:49
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/home_customer.php(49): mysqli_stmt_bind_param(false, 'i', 1)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/home_customer.php on line 49
+[16-Apr-2024 05:41:27 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/home_customer.php:49
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/home_customer.php(49): mysqli_stmt_bind_param(false, 'i', 1)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/home_customer.php on line 49
+[16-Apr-2024 05:43:07 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/home_customer.php:49
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/home_customer.php(49): mysqli_stmt_bind_param(false, 'i', 1)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/home_customer.php on line 49
+[16-Apr-2024 06:44:20 UTC] PHP Warning:  Undefined array key "status" in /home/cristia1/public_html/Capstone/update_progress.php on line 12
+[16-Apr-2024 06:44:52 UTC] PHP Warning:  Undefined array key "status" in /home/cristia1/public_html/Capstone/update_progress.php on line 12
+[16-Apr-2024 06:44:52 UTC] PHP Warning:  Undefined array key "status" in /home/cristia1/public_html/Capstone/update_progress.php on line 12
+[16-Apr-2024 06:45:04 UTC] PHP Warning:  Undefined array key "status" in /home/cristia1/public_html/Capstone/update_progress.php on line 12
+[19-Apr-2024 05:16:38 UTC] PHP Warning:  Undefined variable $color in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 96
+[19-Apr-2024 05:17:04 UTC] PHP Warning:  Undefined variable $color in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 96
+[19-Apr-2024 05:22:18 UTC] PHP Warning:  Undefined variable $color in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 179
+[19-Apr-2024 05:22:18 UTC] PHP Warning:  Undefined variable $progress in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 179
+[19-Apr-2024 05:46:41 UTC] PHP Warning:  Undefined array key "status" in /home/cristia1/public_html/Capstone/update_progress.php on line 12
+[19-Apr-2024 05:46:43 UTC] PHP Warning:  Undefined array key "status" in /home/cristia1/public_html/Capstone/update_progress.php on line 12
+[19-Apr-2024 05:46:44 UTC] PHP Warning:  Undefined array key "status" in /home/cristia1/public_html/Capstone/update_progress.php on line 12
+[19-Apr-2024 05:46:57 UTC] PHP Warning:  Undefined array key "status" in /home/cristia1/public_html/Capstone/update_progress.php on line 12
+[19-Apr-2024 05:46:57 UTC] PHP Warning:  Undefined array key "status" in /home/cristia1/public_html/Capstone/update_progress.php on line 12
+[19-Apr-2024 05:46:58 UTC] PHP Warning:  Undefined array key "status" in /home/cristia1/public_html/Capstone/update_progress.php on line 12
+[19-Apr-2024 05:47:09 UTC] PHP Warning:  Undefined array key "status" in /home/cristia1/public_html/Capstone/update_progress.php on line 12
+[19-Apr-2024 05:49:08 UTC] PHP Warning:  Undefined array key "status" in /home/cristia1/public_html/Capstone/update_progress.php on line 12
+[19-Apr-2024 06:08:03 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 232
+[19-Apr-2024 06:08:32 UTC] PHP Parse error:  syntax error, unexpected token "else" in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 230
+[20-Apr-2024 06:37:48 UTC] PHP Warning:  Undefined variable $first_name in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 44
+[20-Apr-2024 06:37:48 UTC] PHP Warning:  Undefined variable $last_name in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 44
+[20-Apr-2024 06:37:48 UTC] PHP Warning:  Undefined variable $tech_id in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 45
+[20-Apr-2024 06:37:48 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/cristia1/public_html/Capstone/technician_dashboard.php:226
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/technician_dashboard.php(226): mysqli_prepare(Object(mysqli), 'SELECT appointm...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 226
+[20-Apr-2024 06:41:25 UTC] PHP Warning:  Undefined variable $first_name in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 44
+[20-Apr-2024 06:41:25 UTC] PHP Warning:  Undefined variable $last_name in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 44
+[20-Apr-2024 06:41:25 UTC] PHP Warning:  Undefined variable $tech_id in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 45
+[20-Apr-2024 06:43:11 UTC] PHP Warning:  Undefined variable $first_name in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 44
+[20-Apr-2024 06:43:11 UTC] PHP Warning:  Undefined variable $last_name in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 44
+[20-Apr-2024 06:43:11 UTC] PHP Warning:  Undefined variable $tech_id in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 45
+[20-Apr-2024 06:57:53 UTC] PHP Parse error:  Unclosed '{' on line 38 in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 151
+[20-Apr-2024 07:02:20 UTC] PHP Parse error:  Unclosed '{' on line 38 in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 214
+[20-Apr-2024 07:10:56 UTC] PHP Parse error:  Unclosed '{' on line 38 in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 151
+[20-Apr-2024 07:11:03 UTC] PHP Parse error:  Unclosed '{' on line 38 in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 151
+[20-Apr-2024 07:13:46 UTC] PHP Warning:  Undefined variable $first_name in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 74
+[20-Apr-2024 07:13:46 UTC] PHP Warning:  Undefined variable $last_name in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 74
+[20-Apr-2024 07:13:46 UTC] PHP Warning:  Undefined variable $tech_id in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 75
+[20-Apr-2024 07:13:46 UTC] PHP Warning:  Undefined variable $result_appointments in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 79
+[20-Apr-2024 07:13:46 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, null given in /home/cristia1/public_html/Capstone/technician_dashboard.php:79
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/technician_dashboard.php(79): mysqli_num_rows(NULL)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 79
+[20-Apr-2024 07:18:01 UTC] PHP Warning:  Undefined variable $first_name in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 92
+[20-Apr-2024 07:18:01 UTC] PHP Warning:  Undefined variable $last_name in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 92
+[20-Apr-2024 07:18:01 UTC] PHP Warning:  Undefined variable $tech_id in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 93
+[20-Apr-2024 07:18:01 UTC] PHP Warning:  Undefined variable $result_appointments in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 97
+[20-Apr-2024 07:18:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, null given in /home/cristia1/public_html/Capstone/technician_dashboard.php:97
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/technician_dashboard.php(97): mysqli_num_rows(NULL)
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 97
+[23-Apr-2024 18:03:31 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_stmt_bind_param(): Argument #1 ($statement) must be of type mysqli_stmt, bool given in /home/cristia1/public_html/Capstone/register.php:15
+Stack trace:
+#0 /home/cristia1/public_html/Capstone/register.php(15): mysqli_stmt_bind_param(false, 's', 'cristianstudy@g...')
+#1 {main}
+  thrown in /home/cristia1/public_html/Capstone/register.php on line 15
+[23-Apr-2024 18:25:35 UTC] PHP Warning:  Undefined array key "progress" in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 202
+[23-Apr-2024 18:25:35 UTC] PHP Warning:  Undefined array key "progress" in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 202
+[23-Apr-2024 18:25:46 UTC] PHP Warning:  Undefined array key "progress" in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 202
+[23-Apr-2024 18:25:46 UTC] PHP Warning:  Undefined array key "progress" in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 202
+[23-Apr-2024 18:25:48 UTC] PHP Warning:  Undefined array key "progress" in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 202
+[23-Apr-2024 18:25:48 UTC] PHP Warning:  Undefined array key "progress" in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 202
+[23-Apr-2024 18:26:01 UTC] PHP Warning:  Undefined array key "progress" in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 202
+[23-Apr-2024 18:26:01 UTC] PHP Warning:  Undefined array key "progress" in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 202
+[23-Apr-2024 18:26:16 UTC] PHP Warning:  Undefined array key "progress" in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 202
+[23-Apr-2024 18:26:38 UTC] PHP Warning:  Undefined array key "progress" in /home/cristia1/public_html/Capstone/technician_dashboard.php on line 202
